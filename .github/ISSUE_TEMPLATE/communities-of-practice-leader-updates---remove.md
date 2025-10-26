@@ -1,8 +1,8 @@
 ---
-name: Communities of Practice leader updates - Add
-about: This template is for website team only to ADD a single volunteer to a Community
-  of Practice
-title: 'Update Community of Practice: [CoP Name] Add [Name of Volunteer]'
+name: Communities of Practice leader updates - Remove
+about: This template is for website team only to REMOVE a single volunteer from a
+  Community of Practice
+title: 'Update Community of Practice: [CoP Name] Remove [Name of Volunteer]'
 labels: 'good first issue, P-Feature: Communities of Practice, role: back end/devOps,
   role: front end, size: 0.25pt, time sensitive'
 assignees: ''
@@ -19,15 +19,9 @@ We need to keep project information up to date so that visitors to the website c
 ### Action Items
 - [ ] In your IDE, open the `_data/internal/communities/[Insert filename].yml` file.
 - [ ] Observe the existing syntax of the front matter block [^1] in the file.
-- [ ] Find the `leadership` variable and add the following profile after other member(s) with the same role.   
+- [ ]  Find the `leadership` variable and remove the following:
 ```
-  - name: [Insert leadership member's name]
-    github-handle: [Insert GitHub handle]
-    role: [Insert role]
-    links:
-      slack: https://hackforla.slack.com/team/[Insert Slack member ID]
-      github: https://github.com/[Insert GitHub handle]
-    picture: https://avatars.githubusercontent.com/[Insert GitHub handle]
+[Insert the lines of code to remove the specified leadership member]
 ```
 - [ ] Verify the changes by viewing the following in your local environment with Docker, and include 'before' and 'after' screenshots with your pull request:
   - [ ] Communities of Practice page [^2]
