@@ -1,5 +1,5 @@
 ---
-name: communities of practice leader updates - Add
+name: Communities of Practice leader updates - Add
 about: This template is for website team only to ADD a single volunteer to a Community
   of Practice
 title: 'Update Communitiy of Practice: [CoP Name] Add [Name of Volunteer]'
