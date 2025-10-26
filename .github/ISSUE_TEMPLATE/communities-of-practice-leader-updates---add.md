@@ -2,7 +2,7 @@
 name: Communities of Practice leader updates - Add
 about: This template is for website team only to ADD a single volunteer to a Community
   of Practice
-title: 'Update Communitiy of Practice: [CoP Name] Add [Name of Volunteer]'
+title: 'Update Community of Practice: [CoP Name] Add [Name of Volunteer]'
 labels: 'good first issue, P-Feature: Communities of Practice, role: back end/devOps,
   role: front end, size: 0.25pt, time sensitive'
 assignees: ''
