@@ -126,6 +126,7 @@ projectBoard:
 bots:
   - "github-actions[bot]"
   - "HackforLABot"
+  - "hfla-graphql-app[bot]"
 
 
 
